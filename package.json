@@ -4,9 +4,9 @@
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name LUCKY-XD",
-    "stop": "pm2 stop LUCKY-XD",
-    "restart": "pm2 restart LUCKY-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name DOLLAR WOW HUB",
+    "stop": "pm2 stop DOLLAR WOW HUB",
+    "restart": "pm2 restart DOLLAR WOW HUB"
   },
   "dependencies": {
     "axios": "^1.7.9",
