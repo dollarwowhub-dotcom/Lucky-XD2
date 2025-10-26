@@ -10,11 +10,11 @@ malvin({
 }, async (conn, mek, m, { from, args, q, reply }) => {
   try {
     if (!q)
-      return reply(`❎ *Please provide a WhatsApp Channel link.*\n\n📌 *Example:*\n.newsletter https://whatsapp.com/channel/xxxxxxxxxx`);
+      return reply(`❎ *Please provide a WhatsApp Group link.*\n\n📌 *Example:*\nhttps://chat.whatsapp.com/HTSu5tt0pWRDrUOBqhCfSC`);
 
     const match = q.match(/whatsapp\.com\/channel\/([\w-]+)/);
     if (!match)
-      return reply(`⚠️ *Invalid channel link!*\n\nMake sure it looks like:\nhttps://whatsapp.com/channel/xxxxxxxxx`);
+      return reply(`⚠️ *Invalid channel link!*\n\nMake sure it looks like:\nhttps://chat.whatsapp.com/HTSu5tt0pWRDrUOBqhCfSC`);
 
     const inviteId = match[1];
     let metadata;
@@ -36,7 +36,7 @@ malvin({
 │ 👥 *Followers:* ${metadata.subscribers?.toLocaleString() || "N/A"}
 │ 🗓️ *Created:* ${metadata.creation_time ? new Date(metadata.creation_time * 1000).toLocaleString("id-ID") : "Unknown"}
 │
-╰─⭓ Powered By *Lucky Tech Hub*
+╰─⭓ Powered By *DOLLAR Tech Hub*
 `;
 
     if (metadata.preview) {
