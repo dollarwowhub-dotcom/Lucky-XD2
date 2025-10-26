@@ -1,6 +1,6 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
+Project Name : DOLLAR
+Creator      : Malvin King ( DOLLAR )
 Repo         : https://github.com/XdKing2/MALVIN-XD
 */   
 
