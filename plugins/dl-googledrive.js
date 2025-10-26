@@ -65,7 +65,7 @@ malvin({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 ✦LUCKY-XD v3✦ 』',
+            newsletterName: '『 ✦DOLLAR-XD v3✦ 』',
             serverMessageId: 143
           }
         }
@@ -84,7 +84,7 @@ malvin({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 DOLLAR-XD 』',
             serverMessageId: 143
           }
         }
@@ -105,7 +105,7 @@ malvin({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 DOLLAR-XD 』',
             serverMessageId: 143
           }
         }
