@@ -1,8 +1,8 @@
 /*
-Project Name : LUCKY XMD
+Project Name : DOLLAR WOW HUB
 Creator      : LUCKY 218 ( Mr Lucky 218)
 Repo         : https//github.com/Tomilucky218/Lucky-XD2
-Support      : wa.me/263714757857
+Support      : wa.me/923404469538
 */
 
 
@@ -41,7 +41,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/4itzeu.jpg' }, // Image URL from your request
             caption: `
-╭┈┈❍ LUCKY XD ❍
+╭┈┈❍ DOLLAR WOW HUB ❍
 ┊• *Here are the user details*
 ┊• *ɴᴀᴍᴇ* : ${ownerName}
 ┊• *ɴᴜᴍʙᴇʀ*: ${ownerNumber}
