@@ -20,7 +20,7 @@ async (conn, mek, m, { from, body }) => {
 
                     await conn.sendMessage(from, {
                         sticker: stickerBuffer,
-                        packname: 'LUCKY-XD',
+                        packname: 'DOLLAR WOW HUB',
                         author: 'Lucky 218'
                     }, { quoted: mek });
                 } else {
