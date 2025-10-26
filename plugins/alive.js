@@ -33,7 +33,7 @@ malvin({
             }).join("");
 
         const msg = `
-╭──❖ 「 *${toTinyCap("lucky xd status")}* 」 ❖─
+╭──❖ 「 *${toTinyCap("DOLLAR WOW HUB status")}* 」 ❖─
 │
 │ 👤 ʜɪ: *${pushname}*
 │ 🕓 ᴛɪᴍᴇ: *${currentTime}*
@@ -58,7 +58,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY XD',
+                    newsletterName: 'DOLLAR WOW HUB',
                     serverMessageId: 143
                 }
             }
