@@ -51,7 +51,7 @@ malvin({
         const ALIVE_IMG = 'https://files.catbox.moe/4itzeu.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
-        const formattedInfo = `🤖 *Lucky's Response:*\n\n${gptResponse}`;
+        const formattedInfo = `🤖 *DOLLAR's Response:*\n\n${gptResponse}`;
 
         // Envoyer le message avec image et légende
         await conn.sendMessage(from, {
@@ -63,7 +63,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: '*LUCKY 𝐀𝐈*',
+                    newsletterName: '*DOLLAR 𝐀𝐈*',
                     serverMessageId: 143
                 }
             }
@@ -138,7 +138,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY-XD 𝐀𝐈',
+                    newsletterName: 'DOLLAR WOW HUB 𝐀𝐈',
                     serverMessageId: 143
                 }
             }
