@@ -49,12 +49,12 @@ malvin({
     await conn.newsletterReactMessage(channelMeta.id, messageId, emoji);
 
     return reply(
-`╭━━〔 *LUCKY-XD*⚡ 〕━⬣
+`╭━━〔 *DOLLAR-XD*⚡ 〕━⬣
 ┃✨ *Reaction sent successfully!*
 ┃📡 *Channel:* ${channelMeta.name}
 ┃💬 *Reaction:* ${emoji}
 ╰──────────────⬣
-> 🔗 *Powered By Lucky Tech Hub* 🔥`
+> 🔗 *Powered By DOLLAR Tech Hub* 🔥`
     );
   } catch (e) {
     console.error(e);
