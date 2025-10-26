@@ -71,7 +71,7 @@ _Reply with:_
 *1* for 📥 Video  
 *2* for 🎧 Audio
 
-> ${config.FOOTER || "Powered By Lucky Tech Hub"}`;
+> ${config.FOOTER || "Powered By DOLLAR Tech Hub"}`;
 
   const preview = await conn.sendMessage(from, {
     image: { url: thumbnail },
