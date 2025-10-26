@@ -83,7 +83,7 @@ malvin({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420656466131@newsletter',
-          newsletterName: '『 LUCKY-XD 』 ',
+          newsletterName: '『 DOLLAR-XD 』 ',
           serverMessageId: 143
         }
       }
