@@ -62,7 +62,7 @@ malvin({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363420656466131@newsletter',
-              newsletterName: '『 ʟᴜᴄᴋʏ-xᴅ 』',
+              newsletterName: '『 DOLLAR-xᴅ 』',
               serverMessageId: 143
             }
           }
@@ -83,7 +83,7 @@ malvin({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363420656466131@newsletter',
-              newsletterName: '『 ʟᴜᴄᴋʏ-xᴅ 』',
+              newsletterName: '『 DOLLAR-xᴅ 』',
               serverMessageId: 143
             }
           }
@@ -164,7 +164,7 @@ malvin({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420656466131@newsletter',
-          newsletterName: '『 ʟᴜᴄᴋʏ-xᴅ 』',
+          newsletterName: '『 DOLLAR-xᴅ 』',
           serverMessageId: 143
         }
       }
